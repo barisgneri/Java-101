@@ -1,3 +1,4 @@
+//https://app.patika.dev/barisgneri
 package Giris;
 import java.util.Scanner;
 
